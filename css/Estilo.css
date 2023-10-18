@@ -17,7 +17,6 @@ section{float: right;border-block-start-style:dotted;writing-mode: horizontal-tb
 .contenedor { display: grid; justify-content: center;flex-direction: column;}
 footer{ float: left;width: 100%;display: flex;justify-content: space-around;border-block-start-style:dotted; font-size: 150%;flex-wrap: wrap;}
 .btn-wsp{position: fixed;width: 55px;height: 55px;line-height: 55px;bottom: 30px;right: 30px;border-radius: 50px;text-align: center;}
-.btn{position:fixed;width:70px;height: 70px; line-height:70px;bottom: 70px; right: auto;border-radius: 70px; text-align: center;}
 header{display: flex;justify-content: space-around;align-items: center;flex-wrap: wrap; height: 40%}
 .redes{display: flex;justify-content: space-around;}
 .redess{display: flex;justify-content: space-around;align-self: center;}
@@ -43,5 +42,5 @@ button:hover::before {content: "";position: absolute;top: 0;left: 0;z-index: -1;
 body{background-image:url("../imagen/flo.jpg")}
 .bandera{display: none;}
 
-
 }
+.postres{width:100%;}
