@@ -12,9 +12,9 @@
 .video{font-size: 140%;}
 .parrafo{text-align: justify; font-size: 150%}
 main{float: left;; height:40%; ;width: 80%;border-block-start-style:dotted;writing-mode: horizontal-tb;display: block;}
-aside{ width: 20%;  float: left; background-color: #FAC9FC;flex-wrap: wrap;}
+aside{ width:20%;float: left; background-color: #FAC9FC;flex-wrap: wrap;}
 section{float: right;border-block-start-style:dotted;writing-mode: horizontal-tb;display: block; flex-wrap: wrap;}
-.contenedor { display: grid; justify-content: center;flex-direction: column;}
+.contenedor { display: grid; justify-content: center;flex-direction: column; height: 100%}
 footer{ float: left;width: 100%;display: flex;justify-content: space-around;border-block-start-style:dotted; font-size: 150%;flex-wrap: wrap;}
 .btn-wsp{position: fixed;width: 55px;height: 55px;line-height: 55px;bottom: 30px;right: 30px;border-radius: 50px;text-align: center;}
 header{display: flex;justify-content: space-around;align-items: center;flex-wrap: wrap; height: 40%}
